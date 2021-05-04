@@ -1,0 +1,3 @@
+- créer toute la structure (fichiers)
+- inclure tous les fichiers dans l'index.php
+- 

@@ -1,0 +1,25 @@
+CLASSES
+
+- forme(mère avec les prop qui sont présentes dans toutes les formes)
+	- x
+	- y
+	- color
+	- opacity
+- rectangle
+	- width
+	- height
+- circle
+	- rayon
+- triangle
+	- x2
+	- y2
+	- x3
+	- y3
+- carré
+	-size
+- ellipse
+	-rayonX
+	-rayonY
+- moteur
+	- formes (objet)
+	- svg (balises svg)
